@@ -1,2 +1,1 @@
-# BitcoinOptionSystem
-Bitcoin option system develop
+# Bitcoin Option System
